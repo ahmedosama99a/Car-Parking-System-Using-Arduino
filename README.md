@@ -61,12 +61,8 @@ The complete Arduino code for the system is included in the repository inside th
 - System simulation (Proteus)  
 - Real prototype (optional)
 
----
-
-## 📜 License
-This project is released under the **MIT License**.
 
 ---
 
 ## 🙌 Author
-Developed as a simple and practical project for demonstrating an automated parking system using Arduino.
+Ahmed Osama Salah
