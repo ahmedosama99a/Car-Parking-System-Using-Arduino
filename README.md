@@ -63,7 +63,6 @@ The complete Arduino code for the system is included in the repository inside th
 
 ### Real Prototype
 ![Real Prototype](Image%20%26%20Video/WhatsApp%20Image%202025-12-17%20at%2013.56.30_d17bfb91.jpg)
-
 ### Hardware in Action
 [Watch Video](Image%20%26%20Video/WhatsApp%20Video%202025-12-17%20at%2013.56.43_016b80e4.mp4)
 
@@ -72,5 +71,6 @@ The complete Arduino code for the system is included in the repository inside th
 
 ## 🙌 Author
 Ahmed Osama Salah
+
 
 
