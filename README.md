@@ -56,13 +56,20 @@ The complete Arduino code for the system is included in the repository inside th
 
 ---
 
-## 📸 Images
-- Wiring diagram  
-- System simulation (Proteus)  
-- Real prototype (optional)
+## 📸 Images & Videos
+
+### Wiring Diagram / Simulation
+![Proteus Simulation](Image%20%26%20Video/Screenshot%202025-12-10%20172003.png)
+
+### Real Prototype
+![Real Prototype](Image%20%26%20Video/WhatsApp%20Image%202025-12-17%20at%2013.52.39_e2435a1c.jpg)
+
+### Hardware in Action
+[Watch Video](Image%20%26%20Video/WhatsApp%20Video%202025-12-17%20at%2013.56.43_016b80e4.mp4)
 
 
 ---
 
 ## 🙌 Author
 Ahmed Osama Salah
+
